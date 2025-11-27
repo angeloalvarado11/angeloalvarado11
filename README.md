@@ -24,4 +24,4 @@ I am a CIS student at Blinn College, interested in upskilling and learning new t
 - 🌴 Studying for the AWS CCP and CAIP certifications
 - 🏋️‍♂️ I love to do weightlifting and exercise
  
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together.
+Thanks for stopping by!
