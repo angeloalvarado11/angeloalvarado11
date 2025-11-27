@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I am a CIS student at Blinn College, interested in upskilling and learning new technologies for web and game development!
 
-![<angeloalvarado11>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<angeloalvarado11>'s Stats](https://github-readme-stats.vercel.app/api?username=<angeloalvarado11>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
