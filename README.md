@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloalvarado11&layout=compact&theme=gotham" />
+</a>
 -->
 ### Hi there, I'm Angelo Alvarado! 👋
 
@@ -47,9 +51,6 @@ I am a Computer Science student at **Western Governors University** with a backg
 <p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=angeloalvarado11&show_icons=true&theme=gotham&count_private=true" alt="Angelo's Github Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloalvarado11&layout=compact&theme=gotham" />
 </a>
 </p>
 
