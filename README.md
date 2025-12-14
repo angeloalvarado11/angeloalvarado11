@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Angelo Alvarado! 👋
 
-I am a Computer Science student at **Western Governors University** with a background in Computer Information Systems. I have a strong passion for **low-level systems**, **cybersecurity**, and **backend development**.
+I am a Computer Science student at **Western Governors University** with a background in Computer Information Systems. I have a strong interest in building things I find enjoyment in.
 
 - 🌱 I’m currently learning: C++ and game development technologies
 - 🎓 Education: B.S. Computer Science @ **WGU** (Exp. 2027)
