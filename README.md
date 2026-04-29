@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 I am a Computer Science student at **Western Governors University** with a background in Computer Information Systems. I have a strong interest in building things I find enjoyment in.
 
-- 🌱 I’m currently learning: C++ and game development technologies
+- 🌱 I’m currently learning: C# and applied AI engineering
+- 📘 I'm currently reading: The C# Player's Guide 5th Edition
 - 🎓 Education: B.S. Computer Science @ **WGU** (Exp. 2027)
-- 💼 Experience: Former Intern @ **Workday** & **CodePath**
+- 💼 Experience: Current AI 110 Tech Fellow @ **CodePath**, Former Software Development Engineer Intern @ **Workday**
 
 ---
 
